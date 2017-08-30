@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "sequelize": "^3.30.4",
-    "vineyard-ground": "vineyard-bloom/vineyard-ground",
+    "vineyard-ground": "https://github.com/afg419/vineyard-ground",
     "vineyard-lawn": "vineyard-bloom/vineyard-lawn",
     "vineyard-users": "vineyard-bloom/vineyard-users",
     "vineyard-error-logging": "vineyard-bloom/vineyard-error-logging",
